@@ -1,2 +1,0 @@
-di bagian ini gw mau cobain branch di github
-branch itu adalah percabangan dari file asli
